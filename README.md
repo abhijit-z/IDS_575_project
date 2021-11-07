@@ -1,2 +1,2 @@
-# iDS 575_project
+# IDS 575_project
 Diabetes hospital readmission
